@@ -6,4 +6,4 @@ introduction to HTML
 3. working with text
 4. Lists
 5. Links and images and
-6. commit messages
+6. commit 
